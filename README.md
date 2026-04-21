@@ -39,7 +39,7 @@
   - 📧 info@it-enterprise.solutions
   - 💼 [LinkedIn](https://www.linkedin.com/in/jirihozda/)                                                                                                
   - 🆔 [ORCID 0009-0009-5757-798X](https://orcid.org/0009-0009-5757-798X)                                                                                
-  - 🔐 security.txt → _coming soon_                                                                                                                      
+ - 🔐 [security.txt](https://it-enterprise.solutions/.well-known/security.txt)                                                                                                                       
                                                                                                                                                          
   ---                                                                                                                                                    
                                                                                                                                                          
