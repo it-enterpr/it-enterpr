@@ -39,7 +39,8 @@
   - 📧 info@it-enterprise.solutions
   - 💼 [LinkedIn](https://www.linkedin.com/in/jirihozda/)                                                                                                
   - 🆔 [ORCID 0009-0009-5757-798X](https://orcid.org/0009-0009-5757-798X)                                                                                
- - 🔐 [security.txt](https://it-enterprise.solutions/.well-known/security.txt)                                                                                                                       
+ - 🔐 [security.txt](https://it-enterprise.solutions/.well-known/security.txt)                                                                                      - 🔑 GPG: [`FBCCCDC126F5F366676993B2BA9320E662906A95`](https://keys.openpgp.org/vks/v1/by-fingerprint/FBCCCDC126F5F366676993B2BA9320E662906A95)       
+                                   
                                                                                                                                                          
   ---                                                                                                                                                    
                                                                                                                                                          
